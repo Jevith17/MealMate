@@ -1,4 +1,4 @@
-# 🥗 MealMate – Your AI-Powered Daily Meal Planner
+# 🥗 MealMate – Your AI-Powered Daily Meal Planner App
 
 MealMate is a cross-platform mobile app that uses **AI** to help users plan their meals, discover recipes, and generate grocery lists — all tailored to their dietary needs, cooking time, and available ingredients. Built using **Flutter** and **Firebase AI Studio (Genkit)**, MealMate provides a smart and effortless solution to the daily question:  
 **“What should I eat today?”**
